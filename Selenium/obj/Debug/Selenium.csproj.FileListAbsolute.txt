@@ -1,0 +1,11 @@
+C:\Users\h200775\source\repos\Selenium\Selenium\bin\Debug\Selenium.exe.config
+C:\Users\h200775\source\repos\Selenium\Selenium\bin\Debug\Selenium.exe
+C:\Users\h200775\source\repos\Selenium\Selenium\bin\Debug\Selenium.pdb
+C:\Users\h200775\source\repos\Selenium\Selenium\bin\Debug\WebDriver.dll
+C:\Users\h200775\source\repos\Selenium\Selenium\bin\Debug\WebDriver.Support.dll
+C:\Users\h200775\source\repos\Selenium\Selenium\bin\Debug\WebDriver.xml
+C:\Users\h200775\source\repos\Selenium\Selenium\bin\Debug\WebDriver.Support.xml
+C:\Users\h200775\source\repos\Selenium\Selenium\obj\Debug\Selenium.csprojResolveAssemblyReference.cache
+C:\Users\h200775\source\repos\Selenium\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
+C:\Users\h200775\source\repos\Selenium\Selenium\obj\Debug\Selenium.exe
+C:\Users\h200775\source\repos\Selenium\Selenium\obj\Debug\Selenium.pdb
